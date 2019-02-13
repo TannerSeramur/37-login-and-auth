@@ -9,6 +9,7 @@
 
 * [repo](https://github.com/TannerSeramur/37-login-and-auth)
 * [travis](https://www.travis-ci.com/TannerSeramur/37-login-and-auth)
+* [aws](http://ts-basic-cms.s3-website-us-west-2.amazonaws.com/)
 
 
 
